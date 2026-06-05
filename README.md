@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi there, I'm Mikko Karmanto 👋
 
-<!--
-**MikkoKarmanto/MikkoKarmanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer and builder who works across automation, device tooling, and modern web apps.
+My public projects show a mix of **Python**, **TypeScript**, and practical tools for **device management**, **SafeQ-related workflows**, and **UI experimentation**.
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on
+- Building practical software and utilities
+- Exploring modern TypeScript and Fluent UI
+- Automating device configuration and management tasks
+- Creating tools around printing, MFPs, and SafeQ ecosystems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech I use
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 📌 Featured repositories
+- **[Fluent-UI-Demo](https://github.com/MikkoKarmanto/Fluent-UI-Demo)** — TypeScript project exploring Fluent UI and modern interface patterns.
+- **[SQC-User-Manager](https://github.com/MikkoKarmanto/SQC-User-Manager)** — TypeScript-based tooling related to user management workflows.
+- **[KM-Device-Settings](https://github.com/MikkoKarmanto/KM-Device-Settings)** — Python project for automated device settings import.
+- **[MKTools](https://github.com/MikkoKarmanto/MKTools)** — Utilities for Konica Minolta devices and SafeQ.
+- **[add-printer](https://github.com/MikkoKarmanto/add-printer)** — Printer deployment and configuration utility for MFP and print management use cases.
+
+## 📊 GitHub activity
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MikkoKarmanto&show_icons=true&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MikkoKarmanto&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MikkoKarmanto&show_icons=true" alt="GitHub stats" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=MikkoKarmanto&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=MikkoKarmanto"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikkoKarmanto" alt="GitHub streak" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkoKarmanto&layout=compact&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkoKarmanto&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkoKarmanto&layout=compact" alt="Top languages" />
+</picture>
+
+## 🧭 Focus areas
+- Automation
+- Device tooling
+- Printing and fleet workflows
+- TypeScript apps
+- Python utilities
+
+## 🤝 Connect
+- GitHub: [@MikkoKarmanto](https://github.com/MikkoKarmanto)
+
+---
+*Thanks for visiting my profile.*
