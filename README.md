@@ -16,13 +16,6 @@ My public projects show a mix of **Python**, **TypeScript**, and practical tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📌 Featured repositories
-- **[Fluent-UI-Demo](https://github.com/MikkoKarmanto/Fluent-UI-Demo)** — TypeScript project exploring Fluent UI and modern interface patterns.
-- **[SQC-User-Manager](https://github.com/MikkoKarmanto/SQC-User-Manager)** — TypeScript-based tooling related to user management workflows.
-- **[KM-Device-Settings](https://github.com/MikkoKarmanto/KM-Device-Settings)** — Python project for automated device settings import.
-- **[MKTools](https://github.com/MikkoKarmanto/MKTools)** — Utilities for Konica Minolta devices and SafeQ.
-- **[add-printer](https://github.com/MikkoKarmanto/add-printer)** — Printer deployment and configuration utility for MFP and print management use cases.
-
 ## 📊 GitHub activity
 <picture>
   <source
@@ -64,11 +57,4 @@ My public projects show a mix of **Python**, **TypeScript**, and practical tools
 - Automation
 - Device tooling
 - Printing and fleet workflows
-- TypeScript apps
-- Python utilities
-
-## 🤝 Connect
-- GitHub: [@MikkoKarmanto](https://github.com/MikkoKarmanto)
-
----
-*Thanks for visiting my profile.*
+- Sharepoint Framework
